@@ -31,7 +31,7 @@ company_size: The size of the company (small, medium, large).
 🛠 Tool
 Tableau (for data visualization and dashboard creation)
 
-🚀 How to Use the Dashboard
+To Use the Dashboard
 Download the Tableau workbook (.twbx file) from this repository.
 Open the file using Tableau Desktop or Tableau Public.
 Interact with filters and charts to explore different salary insights.
