@@ -28,7 +28,7 @@ remote_ratio: The percentage of work done remotely (0: No remote, 50: Partially 
 company_location: The country where the employer’s main office or contracting branch is located (ISO 3166 country code).
 company_size: The size of the company (small, medium, large).
 
-🛠 Tools & Technologies
+🛠 Tool
 Tableau (for data visualization and dashboard creation)
 
 🚀 How to Use the Dashboard
